@@ -1,2 +1,4 @@
 name: Digital Sufism
 markdown: kramdown
+
+theme: jekyll-theme-minimal
